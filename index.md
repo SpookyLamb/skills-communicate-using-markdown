@@ -8,3 +8,7 @@
 (I'm very funny)
 
 ![A drawing of Nepeta](https://i.imgur.com/lgKhFQl.jpg)
+
+``` javascript
+var myVar = "Hello, world!";
+```
